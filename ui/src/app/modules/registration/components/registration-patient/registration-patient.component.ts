@@ -274,5 +274,3 @@ export class RegistrationPatientComponent implements OnInit {
     );
   }
 }
-
-
