@@ -264,7 +264,7 @@ export class RegistrationHomeComponent implements OnInit {
         responsive: true,
         maintainAspectRatio: false,
       },
-    });
-  }
+    });
+  }
 
 }
